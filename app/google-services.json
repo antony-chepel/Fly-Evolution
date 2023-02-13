@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944340758297",
+    "project_id": "rapturing-borealis",
+    "storage_bucket": "rapturing-borealis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944340758297:android:c8767055f23796d3ac5f88",
+        "android_client_info": {
+          "package_name": "com.generamobile.headsocc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944340758297-3cbmtuk13vprfu85c7reu7qdnoibv69s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0tp_OoblBAdNt2cRHsMwFfhg5xY5VuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944340758297-3cbmtuk13vprfu85c7reu7qdnoibv69s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
